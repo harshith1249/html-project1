@@ -1,0 +1,30 @@
+body{
+ font: Arial, Helvetica, sans-serif;
+  background: linear-gradient(to bottom, #ffffff 0%, #66ccff 100%);
+}
+
+#aboutus h1{
+ font-size: 45px;
+ color:#05656c;
+font-family:verdana;
+ font-weight: normal;
+}
+#aboutus p{
+ font-size: 25px;
+ color: #628F19;
+ text-align: justify;
+}
+
+#aboutus h2{
+ font-size: 45px;
+ color:#05656c;
+font-family:verdana;
+ font-weight: normal;
+}
+
+#aboutus li,ul{
+font-size: 45px;
+ color:#05656c;
+font-family:verdana;
+ font-weight: normal;
+}
